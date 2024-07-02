@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2024-07-02T13:54:06.772Z
+date: 2024-07-02T13:55:21.706Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T12:41:07.722Z
@@ -34,7 +34,7 @@ La plupart de nos événements se déroulent à Kanto, donc nous vous encourageo
 
 ![pokemmo.png](/images/pokemmo.png =512x)
 
-> *Le jeu est disponible sur Windows, Linux, Mac, Android & iPhone.*
+> *Le jeu est disponible sur Windows, Linux, Mac, Android & iPhone.* [(Site Officiel)](https://pokemmo.com/fr/)
 {.is-info}
 
 ## Nos Liens :
