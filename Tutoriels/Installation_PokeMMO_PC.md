@@ -1,0 +1,32 @@
+---
+title: Installation PokéMMO sur PC
+description: 
+published: true
+date: 2024-07-02T14:50:46.443Z
+tags: installation, pc
+editor: markdown
+dateCreated: 2024-07-02T14:50:46.443Z
+---
+
+# Installer PokéMMO sur PC
+
+
+## 1) Téléchargement & installation du client PokéMMO
+
+Vous trouverez le client PokéMMO sur le site officiel dans la rubrique **"Téléchargements"**, cliquez sur *Windows* et lancer l'éxécutable *(.exe)* **[Lien](https://pokemmo.com/fr/downloads/)**
+
+## 2) Téléchargez les ROMs (FR ou US) selon votre préférence.
+
+Pour trouver des roms, tapez dans Google "Rom Pokémon *la version* FR", vous devriez trouver sans trop de difficultés.
+
+_Il vous faudra les versions suivantes :_
+
+* **Rouge Feu**
+* **Emeraude**
+* **Platine**
+* **Coeur d'Or** *(Heartgold)*
+* **Noir ou Blanc** *(premier du nom)*
+
+## 3) Ajout des ROMs
+
+Faites un clique droit sur l'icône PokeMMO et cliquez sur **"Ouvrir l'emplacement du fichier"** *(Si vous n'avez pas ce menu, allez dans "C:\Program Files\PokeMMO")*.
