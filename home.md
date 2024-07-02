@@ -2,13 +2,13 @@
 title: Accueil
 description: 
 published: true
-date: 2024-07-02T13:41:53.582Z
+date: 2024-07-02T13:53:03.418Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T12:41:07.722Z
 ---
 
-![bannière_team_rooket.png](/images/bannière_team_rooket.png)
+![bannière_team_rooket.png](/images/bannière_team_rooket.png =512x)
 
 # La *Team Rooket* ou *TRØK*, c’est quoi ?
 
@@ -32,7 +32,7 @@ La plupart de nos événements se déroulent à Kanto, donc nous vous encourageo
 > 
 > Il vous permet de revivre les histoires de Kanto / Johto / Hoenn / Sinnoh / Unys et tout cela en compagnie de camarade !
 
-![pokemmo.png](/images/pokemmo.png)
+![pokemmo.png](/images/pokemmo.png =512x)
 
 > *Le jeu est disponible sur Windows, Linux, Mac, Android & iPhone.*
 {.is-info}
