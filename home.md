@@ -2,13 +2,13 @@
 title: Accueil
 description: 
 published: true
-date: 2024-07-02T13:53:49.168Z
+date: 2024-07-02T13:54:06.772Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T12:41:07.722Z
 ---
 
-![bannière_team_rooket.png](/images/bannière_team_rooket.png =1024x)
+![bannière_team_rooket.png](/images/bannière_team_rooket.png =860x)
 
 # La *Team Rooket* ou *TRØK*, c’est quoi ?
 
