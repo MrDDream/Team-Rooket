@@ -2,7 +2,7 @@
 title: Tutoriels
 description: 
 published: true
-date: 2024-07-02T15:26:06.428Z
+date: 2024-07-02T15:27:38.004Z
 tags: tuto, tutoriels
 editor: markdown
 dateCreated: 2024-07-02T14:59:14.115Z
