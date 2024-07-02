@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2024-07-02T13:55:21.706Z
+date: 2024-07-02T13:56:04.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T12:41:07.722Z
@@ -31,8 +31,10 @@ La plupart de nos événements se déroulent à Kanto, donc nous vous encourageo
 > **PokéMMO** est un MMORPG basé sur les jeux de la licence Pokémon allant de la version Rouge Feu / Vert Feuille (GBA) à la version Noir / Blanche (DS).
 > 
 > Il vous permet de revivre les histoires de Kanto / Johto / Hoenn / Sinnoh / Unys et tout cela en compagnie de camarade !
+{.is-success}
 
-![pokemmo.png](/images/pokemmo.png =512x)
+
+![pokemmo.png](/images/pokemmo.png =512x) 
 
 > *Le jeu est disponible sur Windows, Linux, Mac, Android & iPhone.* [(Site Officiel)](https://pokemmo.com/fr/)
 {.is-info}
