@@ -2,7 +2,7 @@
 title: Installation PokéMMO sur PC
 description: 
 published: true
-date: 2024-07-02T14:54:33.449Z
+date: 2024-07-02T14:54:59.274Z
 tags: installation, pc
 editor: markdown
 dateCreated: 2024-07-02T14:50:46.443Z
@@ -35,6 +35,6 @@ Faites un clique droit sur l'icône PokeMMO et cliquez sur **"Ouvrir l'emplaceme
 
 Dans le dossier **"roms"** coller vos roms préalablement télécharger.
 
-![dossier_rom.png](/images/tutoriels/dossier_rom.png =512x)
+![dossier_rom.png](/images/tutoriels/dossier_rom.png =860x)
 
 ## 4) Lancez votre jeu !
