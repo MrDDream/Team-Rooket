@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2024-07-02T13:31:43.867Z
+date: 2024-07-02T13:41:53.582Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T12:41:07.722Z
@@ -26,5 +26,20 @@ La plupart de nos événements se déroulent à Kanto, donc nous vous encourageo
 
 > **Notre serveur Discord est également ouvert aux non-membres.**
 {.is-warning}
+
+# PokéMMO, c’est quoi ?
+> **PokéMMO** est un MMORPG basé sur les jeux de la licence Pokémon allant de la version Rouge Feu / Vert Feuille (GBA) à la version Noir / Blanche (DS).
+> 
+> Il vous permet de revivre les histoires de Kanto / Johto / Hoenn / Sinnoh / Unys et tout cela en compagnie de camarade !
+
+![pokemmo.png](/images/pokemmo.png)
+
+> *Le jeu est disponible sur Windows, Linux, Mac, Android & iPhone.*
+{.is-info}
+
+## Nos Liens :
+* **[Discord](https://discord.gg/wNKWXRkGgD)**
+* **[Club PokéMMO](https://forums.pokemmo.com/index.php?/clubs/212-tr%C3%B8k-team-rooket/)**
+* **[Twitter](https://twitter.com/TeamRooket)**
 
 
