@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-04T12:54:17.364Z
+date: 2024-07-04T12:55:07.542Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -41,7 +41,7 @@ dateCreated: 2024-07-04T11:54:20.388Z
 * Le Pokémon légendaire peut-être **Shiny**.
 #### Amélioration : IVs & Nature
 * Les **Natures** peuvent être modifiées à l'aide d'**Herbes naturelles**.
-* **IVs 🐦 :** **Les Orbes Élémentaires** tombent au hasard lorsque vous battez un Pokémon sauvage avec un mouvement correspondant au type élémentaire de l'oiseau au combat (ex: Électhor=Tonerre).
+* **IVs 🐦 :** **Les Orbes Élémentaires** tombent au hasard lorsque vous battez un Pokémon sauvage avec un mouvement correspondant au type élémentaire de l'oiseau au combat (ex: Électhor=Tonerre) (une🔵=1 IV).
 * **IVs 🐶 :** Vous obtenez un nombre fixe *(20)* de **Plumes Arc-en-ciel** lorsque vous attrapez un légendaire, vous pouvez en gagner des supplémentaires en utilisant la capacité **Ramasssage** à Johto uniquement (une 🪶=1 IV).
 
 
