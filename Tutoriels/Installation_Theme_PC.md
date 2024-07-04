@@ -2,7 +2,7 @@
 title: Installation d'un Thème sur PC
 description: 
 published: true
-date: 2024-07-04T10:25:28.492Z
+date: 2024-07-04T10:29:44.492Z
 tags: pc, theme
 editor: markdown
 dateCreated: 2024-07-04T10:25:28.492Z
@@ -18,7 +18,7 @@ Faites un clique droit sur l’icône PokeMMO et cliquez sur **"Ouvrir l’empla
 ![acces_dossier.png](/images/tutoriels/acces_dossier.png)
 
 Allez dans le dossier **data** puis **themes** et copiez votre dossier de thème dedans.
-![dossier_themes.png](/images/tutoriels/dossier_themes.png)
+![dossier_themes.png](/images/tutoriels/dossier_themes.png =860x)
 
 ## 3. Activez votre thème
 Lancez PokéMMO, aller dans **Réglages**.
