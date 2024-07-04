@@ -2,7 +2,7 @@
 title: Rematch Arènes / Ligues
 description: 
 published: true
-date: 2024-07-04T11:44:06.981Z
+date: 2024-07-04T11:44:33.061Z
 tags: arene
 editor: markdown
 dateCreated: 2024-07-04T11:41:08.185Z
@@ -30,7 +30,7 @@ dateCreated: 2024-07-04T11:41:08.185Z
 ## Les Teams possibles
 &nbsp;
 ### Arènes: (Merci à Doshaw)
-![rerun_darene_.webp](/images/tutoriels/rerun_darene_.webp =540x)
+![rerun_darene_.webp](/images/tutoriels/rerun_darene_.webp)
 &nbsp;
 ### Ligues: (Merci à Doshaw)
 ![rerun_ligue.webp](/images/tutoriels/rerun_ligue.webp)
