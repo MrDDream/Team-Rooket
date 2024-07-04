@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-04T14:58:38.291Z
+date: 2024-07-04T15:18:06.712Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
