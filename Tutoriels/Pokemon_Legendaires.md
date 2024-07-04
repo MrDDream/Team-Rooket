@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-04T12:55:07.542Z
+date: 2024-07-04T14:58:26.315Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -44,7 +44,21 @@ dateCreated: 2024-07-04T11:54:20.388Z
 * **IVs 🐦 :** **Les Orbes Élémentaires** tombent au hasard lorsque vous battez un Pokémon sauvage avec un mouvement correspondant au type élémentaire de l'oiseau au combat (ex: Électhor=Tonerre) (une🔵=1 IV).
 * **IVs 🐶 :** Vous obtenez un nombre fixe *(20)* de **Plumes Arc-en-ciel** lorsque vous attrapez un légendaire, vous pouvez en gagner des supplémentaires en utilisant la capacité **Ramasssage** à Johto uniquement (une 🪶=1 IV).
 
+&nbsp;
+## Les Capturables "temporaires"
+* **Mewtwo (Kanto)** / **Rayquaza (Hoenn)** / **Arceus (Sinnoh)** / **Keldeo (Unys)** / **Zekrom (Unys)**
+![mewtwo.gif](/images/tutoriels/mewtwo.gif)![rayquaza.gif](/images/tutoriels/rayquaza.gif)![arceus.gif](/images/tutoriels/arceus.gif)![keldeo.gif](/images/tutoriels/keldeo.gif)![zekrom.gif](/images/tutoriels/zekrom.gif)
 
+> Ces cinq légendaires sont capturables dans le jeu, ils prendront la sixième place de votre équipe et sera considéré comme capturé dans votre Pokédex *(avec donc votre DO)*.
+{.is-info}
+
+> Si vous en capturez un *(hormis Zekrom qui est capturable via l'histoire)*, tout les joueurs recevront un message donnant votre pseudo, l'endroit où vous êtes et le canal et vous ne pourrez pas refuser les duels, si quelqu'un vous bat il récupérera le légendaire *(vous le perdrez aussi, si vous, vous déconnectez)*.
+> 
+> Vous pouvez donc soit le capturé comme un Pokémon sauvage, soit en combattant celui qui la capturé, mais ne vous inquiétez pas si vous êtes mauvais en PvP, ***souvent des gens bien attentionnés vous permettent avec une file d'attente de le capturer pour votre Pokédex sans difficultés.***
+{.is-warning}
+
+> Attention cepandant quand vous obtenez un de ces légendaires, le Pokémon vous suivra et **vous ne pourrez pas utiliser VOL, TUNNEL, TELEPORT et même pas le vélo** *(sauf sur la piste cyclable)*.
+{.is-danger}
 
 
 
