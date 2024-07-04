@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-04T14:58:26.315Z
+date: 2024-07-04T14:58:38.291Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -52,7 +52,7 @@ dateCreated: 2024-07-04T11:54:20.388Z
 > Ces cinq légendaires sont capturables dans le jeu, ils prendront la sixième place de votre équipe et sera considéré comme capturé dans votre Pokédex *(avec donc votre DO)*.
 {.is-info}
 
-> Si vous en capturez un *(hormis Zekrom qui est capturable via l'histoire)*, tout les joueurs recevront un message donnant votre pseudo, l'endroit où vous êtes et le canal et vous ne pourrez pas refuser les duels, si quelqu'un vous bat il récupérera le légendaire *(vous le perdrez aussi, si vous, vous déconnectez)*.
+> Si vous en capturez un ***(hormis Zekrom qui est capturable via l'histoire)***, tout les joueurs recevront un message donnant votre pseudo, l'endroit où vous êtes et le canal et vous ne pourrez pas refuser les duels, si quelqu'un vous bat il récupérera le légendaire *(vous le perdrez aussi, si vous, vous déconnectez)*.
 > 
 > Vous pouvez donc soit le capturé comme un Pokémon sauvage, soit en combattant celui qui la capturé, mais ne vous inquiétez pas si vous êtes mauvais en PvP, ***souvent des gens bien attentionnés vous permettent avec une file d'attente de le capturer pour votre Pokédex sans difficultés.***
 {.is-warning}
