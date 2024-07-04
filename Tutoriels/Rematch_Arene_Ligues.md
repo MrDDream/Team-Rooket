@@ -2,14 +2,14 @@
 title: Rematch Arènes / Ligues
 description: 
 published: true
-date: 2024-07-04T11:43:17.317Z
+date: 2024-07-04T11:44:06.981Z
 tags: arene
 editor: markdown
 dateCreated: 2024-07-04T11:41:08.185Z
 ---
 
 # Rematch Arènes / Ligues
-&nbsp;
+
 ## Pourquoi faire les rematch arènes et/ou ligues ?
 > Faire les arènes chaque jour, **c’est le moyen le plus rapide pour vous faire de l’argent sur le jeu !** 
 > **Toutes les 18 heures**, vous pourrez combattre chaque champion, et ce dans toutes les régions.
