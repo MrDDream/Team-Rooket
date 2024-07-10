@@ -2,7 +2,7 @@
 title: #003 Florizarre (Venusar)
 description: 
 published: true
-date: 2024-07-10T17:00:36.179Z
+date: 2024-07-10T17:05:03.023Z
 tags: florizarre, venusar
 editor: markdown
 dateCreated: 2024-07-10T15:05:19.349Z
@@ -36,12 +36,12 @@ dateCreated: 2024-07-10T15:05:19.349Z
 | Vitesse (VIT)          	| 31 	|   	| Vitesse (VIT)          	| 252 	|
 
 
-|     Attaques    	|   	|   	|              	|                       	|
-|:-------------------:	|---	|---	|-------------:	|-----------------------	|
-| Croissance          	|   	|   	| **Talent :** 	| Chlorophylle          	|
-| Giga-Sangsue        	|   	|   	| **Nature :** 	| Modeste *(Modest)*    	|
-| Puis.Cachée *(Feu)* 	|   	|   	| **Objet :**  	| Orbe Vie *(Life Orb)* 	|
-| Bomb-Beurk          	|   	|   	|              	|                       	|
+|              	|                       	|    	|     **Attaques**    	|
+|-------------:	|-----------------------	|---	|:-------------------:	|
+| **Talent :** 	| Chlorophylle          	|   	| Croissance          	|
+| **Nature :** 	| Modeste *(Modest)*    	|   	| Giga-Sangsue        	|
+| **Objet :**  	| Orbe Vie *(Life Orb)* 	|   	| Puis.Cachée *(Feu)* 	|
+|              	|                       	|   	| Bomb-Beurk          	|
 
 > Ce set de Florizarre est utilisable au sein d’une team Soleil (Sun).
 {.is-info}
@@ -58,11 +58,11 @@ dateCreated: 2024-07-10T15:05:19.349Z
 | Vitesse (VIT)          	| 31 	|   	| Vitesse (VIT)          	| 0			|
 
 
-|     Attaques    	|   	|   	|              	|                       	|
-|:-------------------:	|---	|---	|-------------:	|-----------------------	|
-| Synthèse		        	|   	|   	| **Talent :** 	| Engrais   			       	|
-| Giga-Sangsue        	|   	|   	| **Nature :** 	| Calme *(Calm)*			   	|
-| Vampigraine						|   	|   	| **Objet :**  	| Boue Noire *(Black Sludge)* 	|
-| Bomb-Beurk          	|   	|   	|              	|                       	|
+|              	|                       	|    	|     **Attaques**    	|
+|-------------:	|-----------------------			|---	|:-------------------:	|
+| **Talent :** 	| Engrais          						|   	| Synthèse		         	|
+| **Nature :** 	| Calme *(Calm)*    					|   	| Giga-Sangsue        	|
+| **Objet :**  	| Boue Noire *(Black Sludge)* |   	| Vampigraine 	|
+|              	|                       			|   	| Bomb-Beurk          	|
 
 
