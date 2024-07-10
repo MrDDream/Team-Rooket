@@ -2,7 +2,7 @@
 title: #003 Florizarre (Venusar)
 description: 
 published: true
-date: 2024-07-10T16:53:14.199Z
+date: 2024-07-10T16:55:44.935Z
 tags: florizarre, venusar
 editor: markdown
 dateCreated: 2024-07-10T15:05:19.349Z
@@ -50,19 +50,19 @@ dateCreated: 2024-07-10T15:05:19.349Z
 
 | IV                     	|    	|   	| EV                     	|     	|
 |------------------------	|----	|---	|------------------------	|-----	|
-| PV (HP)                	| 31 	|   	| PV (HP)                	| 6   	|
+| PV (HP)                	| 31 	|   	| PV (HP)                	| 252  	|
 | Attaque (ATK)          	| 0  	|   	| Attaque (ATK)          	| 0   	|
-| Défense (DEF)          	| 31 	|   	| Défense (DEF)          	| 0   	|
-| Attaque Spéciale (SpA) 	| 31 	|   	| Attaque Spéciale (SpA) 	| 252 	|
-| Défense Spéciale (SpD) 	| 31 	|   	| Défense Spéciale (SpD) 	| 0   	|
-| Vitesse (VIT)          	| 31 	|   	| Vitesse (VIT)          	| 252 	|
+| Défense (DEF)          	| 31 	|   	| Défense (DEF)          	| 6   	|
+| Attaque Spéciale (SpA) 	| 31 	|   	| Attaque Spéciale (SpA) 	| 0			|
+| Défense Spéciale (SpD) 	| 31 	|   	| Défense Spéciale (SpD) 	| 252  	|
+| Vitesse (VIT)          	| 31 	|   	| Vitesse (VIT)          	| 0			|
 
 
 |     Attaques    	|   	|   	|              	|                       	|
 |:-------------------:	|---	|---	|-------------:	|-----------------------	|
-| Croissance          	|   	|   	| **Talent :** 	| Chlorophylle          	|
-| Giga-Sangsue        	|   	|   	| **Nature :** 	| Modeste *(Modest)*    	|
-| Puis.Cachée *(Feu)* 	|   	|   	| **Objet :**  	| Orbe Vie *(Life Orb)* 	|
+| Synthèse		        	|   	|   	| **Talent :** 	| Engrais   			       	|
+| Giga-Sangsue        	|   	|   	| **Nature :** 	| Calme *(Calm)*			   	|
+| Vampigraine						|   	|   	| **Objet :**  	| Boue Noire *(Black Sludge)* 	|
 | Bomb-Beurk          	|   	|   	|              	|                       	|
 
 
