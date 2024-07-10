@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-10T17:17:25.531Z
+date: 2024-07-10T17:19:51.389Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -58,7 +58,7 @@ dateCreated: 2024-07-04T11:54:20.388Z
 
 > Ces cinq légendaires sont capturables dans le jeu. Ils prendront la sixième place de votre équipe et seront considérés comme capturés dans votre Pokédex *(avec donc votre DO)*.
 > 
-> Pour ne croiser que les légendaires, courez en rond et utilisez des repousses *(Repel Trick)* avec une équipe de Pokémon de niveau 100.
+> Pour ne croiser que les légendaires, courez en rond et utilisez des repousses *(Repel Trick)* avec une équipe Pokémon de niveau 100.
 > 
 >  **Mewtwo** - Caverne Azurée (Kanto)
 >  **Lugia** - Tourb'îles dernier sous-sol (Johto) 
