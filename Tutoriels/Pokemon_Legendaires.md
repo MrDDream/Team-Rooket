@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-10T12:38:28.307Z
+date: 2024-07-10T13:06:33.055Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -71,3 +71,20 @@ dateCreated: 2024-07-04T11:54:20.388Z
 * **Mew** / **Ho-Oh**/ **Regirock** / **Regice** / **Registeel** / **Latios** / **Latias** / **Giratina** / **Heatran** / **Manaphy** / **Cresselia** / **Reshiram**
 ![mew.gif](/images/tutoriels/mew.gif)![ho-oh.gif](/images/tutoriels/ho-oh.gif)![regirock.gif](/images/tutoriels/regirock.gif)![regice.gif](/images/tutoriels/regice.gif)![registeel.gif](/images/tutoriels/registeel.gif)![latios.gif](/images/tutoriels/latios.gif)![latias.gif](/images/tutoriels/latias.gif)
 ![giratina.gif](/images/tutoriels/giratina.gif)![heatran.gif](/images/tutoriels/heatran.gif)![manaphy.gif](/images/tutoriels/manaphy.gif)![cresselia.gif](/images/tutoriels/cresselia.gif)![reshiram.gif](/images/tutoriels/reshiram.gif)
+
+> Ces légendaires ne sont pas capturables mais peuvent être combattus pour apparaître dans votre Pokédex.
+{.is-info}
+
+* **Mew** : Combattre Morimoto dans le bâtiment de Game Freak à Volucité *(Unys)*.
+* **Ho-Oh** : Vous le combattrez pendant l'histoire de Johto.
+* **Regirock** : Combattre Gladys, championne d'arène de Frimapic / Tour de combat de Hoenn.
+* **Registeel** : Combattre Gladys, championne d'arène de Frimapic / Tour de combat de Hoenn.
+* **Regice** : Tour de combat de Hoenn.
+* **Latios** : Combattre Goyah, maître de la ligue d'Unys / Tour de combat de Hoenn.
+* **Latias** : Combattre Goyah, maître de la ligue d'Unys / Tour de combat de Hoenn.
+* **Giratina** : Vous pouvez le rencontrer pendant l'histoire de Sinnoh.
+* **Heatran** : Vous avez une chance de le voir en faisant le rematch contre Charles de Joliberges.
+* **Manaphy** : Vous pouvez le voir dans le livre du manoir luxueux de Sinnoh, seulement de nuit.
+* **Cresselia** : Vous pouvez le rencontrer après l'histoire principale de Sinnoh à Joliberges.
+* **Reshiram** : Vous le rencontrerez pendant l'histoire d'Unys.
+
