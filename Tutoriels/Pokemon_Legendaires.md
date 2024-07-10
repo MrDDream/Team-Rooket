@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-10T12:31:39.496Z
+date: 2024-07-10T12:38:28.307Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -53,8 +53,8 @@ dateCreated: 2024-07-04T11:54:20.388Z
 &nbsp;
 
 ## Les Capturables "temporaires"
-* **Mewtwo (Kanto)** / **Rayquaza (Hoenn)** / **Arceus (Sinnoh)** / **Keldeo (Unys)** / **Zekrom (Unys)**
-![mewtwo.gif](/images/tutoriels/mewtwo.gif) ![rayquaza.gif](/images/tutoriels/rayquaza.gif) ![arceus.gif](/images/tutoriels/arceus.gif) ![keldeo.gif](/images/tutoriels/keldeo.gif) ![zekrom.gif](/images/tutoriels/zekrom.gif)
+* **Mewtwo (Kanto)** / **Lugia (Johto)** / **Rayquaza (Hoenn)** / **Arceus (Sinnoh)** / **Keldeo (Unys)** / **Zekrom (Unys)**
+![mewtwo.gif](/images/tutoriels/mewtwo.gif)![lugia.gif](/images/tutoriels/lugia.gif)![rayquaza.gif](/images/tutoriels/rayquaza.gif) ![arceus.gif](/images/tutoriels/arceus.gif) ![keldeo.gif](/images/tutoriels/keldeo.gif) ![zekrom.gif](/images/tutoriels/zekrom.gif)
 
 > Ces cinq légendaires sont capturables dans le jeu. Ils prendront la sixième place de votre équipe et seront considérés comme capturés dans votre Pokédex *(avec donc votre DO)*.
 {.is-info}
@@ -68,6 +68,6 @@ dateCreated: 2024-07-04T11:54:20.388Z
 {.is-danger}
 
 # Les Non Capturables
-* **Mew** / **Regirock** / **Regice** / **Registeel** / **Latios** / **Latias** / **Giratina** / **Heatran** / **Manaphy** / **Cresselia** / **Reshiram**
-![mew.gif](/images/tutoriels/mew.gif)![regirock.gif](/images/tutoriels/regirock.gif)![regice.gif](/images/tutoriels/regice.gif)![registeel.gif](/images/tutoriels/registeel.gif)![latios.gif](/images/tutoriels/latios.gif)![latias.gif](/images/tutoriels/latias.gif)
+* **Mew** / **Ho-Oh**/ **Regirock** / **Regice** / **Registeel** / **Latios** / **Latias** / **Giratina** / **Heatran** / **Manaphy** / **Cresselia** / **Reshiram**
+![mew.gif](/images/tutoriels/mew.gif)![ho-oh.gif](/images/tutoriels/ho-oh.gif)![regirock.gif](/images/tutoriels/regirock.gif)![regice.gif](/images/tutoriels/regice.gif)![registeel.gif](/images/tutoriels/registeel.gif)![latios.gif](/images/tutoriels/latios.gif)![latias.gif](/images/tutoriels/latias.gif)
 ![giratina.gif](/images/tutoriels/giratina.gif)![heatran.gif](/images/tutoriels/heatran.gif)![manaphy.gif](/images/tutoriels/manaphy.gif)![cresselia.gif](/images/tutoriels/cresselia.gif)![reshiram.gif](/images/tutoriels/reshiram.gif)
