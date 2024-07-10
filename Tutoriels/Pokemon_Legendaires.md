@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-10T06:59:32.913Z
+date: 2024-07-10T12:09:13.344Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -43,7 +43,10 @@ dateCreated: 2024-07-04T11:54:20.388Z
 * Les **Natures** peuvent être modifiées à l'aide d'**Herbes naturelles**.
 * **IVs 🐦 :** **Les Orbes Élémentaires** tombent au hasard lorsque vous battez un Pokémon sauvage avec un mouvement correspondant au type élémentaire de l'oiseau au combat (ex: Électhor=Tonerre) (une🔵=1 IV).
 * **IVs 🐶 :** Vous obtenez un nombre fixe *(20)* de **Plumes Arc-en-ciel** lorsque vous attrapez un légendaire, vous pouvez en gagner des supplémentaires en utilisant la capacité **Ramasssage** à Johto uniquement (une 🪶=1 IV).
-
+&nbsp;
+* **Shaymin** ***(Event)***
+![shaymin.gif](/images/tutoriels/shaymin.gif)
+Shaymin est un cas particulier, en effet, il n'était capturable que pendant la période de l'event 
 &nbsp;
 ## Les Capturables "temporaires"
 * **Mewtwo (Kanto)** / **Rayquaza (Hoenn)** / **Arceus (Sinnoh)** / **Keldeo (Unys)** / **Zekrom (Unys)**
