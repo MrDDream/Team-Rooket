@@ -2,14 +2,14 @@
 title: Fiches Première Génération
 description: 
 published: true
-date: 2024-07-10T15:09:02.091Z
+date: 2024-07-10T15:21:51.332Z
 tags: fiches, stratégiques, première génération
 editor: markdown
 dateCreated: 2024-07-10T14:24:06.625Z
 ---
 
 # Fiches Stratégiques de la Première Génération
-- [![list_florizarre.png](/images/fiches_strat/list_florizarre.png)**#003 Florizarre** *(Venusar)*](https://team-rooket.dwcloud.fr/)
+- [![list_florizarre.png](/images/fiches_strat/list_florizarre.png)**#003 Florizarre** *(Venusar)*](https://team-rooket.fr/fr/Fiches_Strat/Premiere_Gen/003_Florizarre_Venusar)
 {.links-list}
 
 - [![list_dracaufeu.png](/images/fiches_strat/list_dracaufeu.png)**#006 Dracaufeu** *(Charizard)*](https://team-rooket.dwcloud.fr/)
