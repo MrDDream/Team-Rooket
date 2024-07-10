@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-04T15:18:06.712Z
+date: 2024-07-10T06:59:32.913Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -60,6 +60,9 @@ dateCreated: 2024-07-04T11:54:20.388Z
 > Attention cepandant quand vous obtenez un de ces légendaires, le Pokémon vous suivra et **vous ne pourrez pas utiliser VOL, TUNNEL, TELEPORT et même pas le vélo** *(sauf sur la piste cyclable)*.
 {.is-danger}
 
+# Les Non Capturables
+
+.
 
 
 
