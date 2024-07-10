@@ -2,7 +2,7 @@
 title: Fiches Première Génération
 description: 
 published: true
-date: 2024-07-10T14:51:40.118Z
+date: 2024-07-10T14:59:09.160Z
 tags: fiches, stratégiques, première génération
 editor: markdown
 dateCreated: 2024-07-10T14:24:06.625Z
