@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-10T13:06:33.055Z
+date: 2024-07-10T17:17:25.531Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -57,7 +57,20 @@ dateCreated: 2024-07-04T11:54:20.388Z
 ![mewtwo.gif](/images/tutoriels/mewtwo.gif)![lugia.gif](/images/tutoriels/lugia.gif)![rayquaza.gif](/images/tutoriels/rayquaza.gif) ![arceus.gif](/images/tutoriels/arceus.gif) ![keldeo.gif](/images/tutoriels/keldeo.gif) ![zekrom.gif](/images/tutoriels/zekrom.gif)
 
 > Ces cinq légendaires sont capturables dans le jeu. Ils prendront la sixième place de votre équipe et seront considérés comme capturés dans votre Pokédex *(avec donc votre DO)*.
+> 
+> Pour ne croiser que les légendaires, courez en rond et utilisez des repousses *(Repel Trick)* avec une équipe de Pokémon de niveau 100.
+> 
+>  **Mewtwo** - Caverne Azurée (Kanto)
+>  **Lugia** - Tourb'îles dernier sous-sol (Johto) 
+>  **Rayquaza** - Pilier Céleste (Hoenn)
+>  **Arceus** - Mont Couronné (Sinnoh)
+>  **Keldeo** - Tourbières Flocombe (Unys)
 {.is-info}
+
+
+
+
+
 
 > Si vous en capturez un ***(hormis Zekrom qui est capturable via l'histoire)***, tous les joueurs recevront un message donnant votre pseudo, l'endroit où vous êtes et le canal. Vous ne pourrez pas refuser les duels. Si quelqu'un vous bat, il récupérera le légendaire *(vous le perdrez aussi, si vous vous déconnectez)*.
 > 
