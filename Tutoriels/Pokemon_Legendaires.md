@@ -2,7 +2,7 @@
 title: Les Pokémons Légendaires
 description: 
 published: true
-date: 2024-07-11T13:32:11.361Z
+date: 2024-07-11T13:32:53.518Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
@@ -44,7 +44,7 @@ dateCreated: 2024-07-04T11:54:20.388Z
 * La chance de rencontrer un légendaire n'est pas affectée par les Leurres ***(sauf pour les Leurres légendaires obtenables en combattant chaque semaine Ho-Oh)***.
 * Les **Repousses** et les talents **Intimidation** / **Pression** n'améliorent pas les chances de le trouver en supprimant d'autres rencontres d'un niveau inférieur.
 * Le Pokémon légendaire peut être **Shiny**.
-* Le talent **Lumiattirance** sur me premier Pokémon de votre équipe permettra d'augmenter le nombres de rencontres.
+* Le talent **Lumiattirance** sur le premier Pokémon de votre équipe permettra d'augmenter le nombres de rencontres.
 
 #### Amélioration : IVs & Nature
 * Les **Natures** peuvent être modifiées à l'aide d'**Herbes naturelles**.
