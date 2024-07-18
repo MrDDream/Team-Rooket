@@ -1,8 +1,8 @@
 ---
 title: Les Pokémons Légendaires
-description: 
+description: https://team-rooket.fr/e/fr/Tutoriels/Pokemon_Legendaires
 published: true
-date: 2024-07-11T13:32:53.518Z
+date: 2024-07-18T15:03:16.395Z
 tags: légendaires
 editor: markdown
 dateCreated: 2024-07-04T11:54:20.388Z
