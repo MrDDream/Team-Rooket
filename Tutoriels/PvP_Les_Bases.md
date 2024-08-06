@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:23:38.202Z
+date: 2024-08-06T13:29:28.063Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -142,7 +142,7 @@ Votre meilleur ami dans ce rôle : **Leveinard**
  **1** Hazer/Pseudo-Hazer
 {.is-info}
 
-## 5) Construire son équipe compétitive : Synergie des types
+## 5) Synergie des types
 Maintenant que nous avons en tête les principaux rôles, il est nécessaire de réfléchir en termes d'équilibre et de synergie, il faut construire son équipe de manière à ne pas offrir de faiblesse à votre ennemi. 
 
 >En règle générale, il faut éviter que plus de deux Pokémon de votre équipe soient faibles face à un certain type. 
@@ -172,7 +172,7 @@ De même dans une équipe qui a pour stratégie d'utiliser beaucoup l'attaque "p
 
  A vous de tester pour "**roder**" votre équipe !
 
-## 6) Construire son équipe compétitive : Check et contres
+## 6) Check et contres
 
 Enfin, il faut aborder le principe des **checks** et des **contres**. Un check est un Pokémon capable de battre un autre si les conditions sont favorables, alors qu'un contre l'emportera à coup sûr.
 
