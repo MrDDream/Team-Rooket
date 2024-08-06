@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:05:33.988Z
+date: 2024-08-06T13:06:48.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -151,9 +151,12 @@ Exemple d'équipe :
 - **Leuphorie**
 - **Airmure**
 
-Trois Pokémon (Staross, Ptera, Airmure) sont sensibles à l'électricité, ce qui peut ouvrir à une brèche face à Voltali. Remplacez Ptera par Ossatueur pour améliorer la résistance et obtenir un contre.
+> Trois Pokémon (Staross, Ptera, Airmure) sont sensibles à l'électricité, ce qui peut ouvrir à une brèche face à Voltali. 
+Remplacez Ptera par Ossatueur pour améliorer la résistance et obtenir un contre.
+{.is-warning}
 
-L'idéal est que les faiblesses d'un Pokémon soient couvertes par les résistances d'autres. Un réseau de résistances renforce votre équipe face aux menaces adverses.
+> L'idéal est que les faiblesses d'un Pokémon soient couvertes par les résistances d'autres. Un réseau de résistances renforce votre équipe face aux menaces adverses.
+{.is-info}
 
 ## 6) Construire son équipe compétitive : Check et contres
 
