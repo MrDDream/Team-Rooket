@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:04:09.052Z
+date: 2024-08-06T13:05:33.988Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -132,11 +132,11 @@ Votre meilleur ami dans ce rôle : **Leveinard**
 ![leveinard.gif](/images/tutoriels/leveinard.gif)
 
 > Pour une première équipe, visez au minimum les rôles suivants :
- 1 Mur Spécial
- 1 Mur Physique
- 1 Sweeper Physique
- 1 Sweeper Spécial
- 1 Hazer/Pseudo-Hazer
+ **1** Mur Spécial
+ **1** Mur Physique
+ **1** Sweeper Physique
+ **1** Sweeper Spécial
+ **1** Hazer/Pseudo-Hazer
 {.is-info}
 
 ## 5) Construire son équipe compétitive : Synergie des types
