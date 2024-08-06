@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:33:47.996Z
+date: 2024-08-06T13:36:05.381Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -47,7 +47,7 @@ Les plus puissants ici sont souvent :
 - En Défense : **Noacier** / **Leveinard**
 ![noacier.gif](/images/tutoriels/noacier.gif)![leveinard.gif](/images/tutoriels/leveinard.gif)
 
-En jouant en OU, vous devez être capable de gérer des menaces courantes telles que Léviator après une danse-draco ou un Togekiss qui régénère constamment.
+En jouant en OU, vous devez être capable de gérer des menaces courantes telles que Dracolosse après une danse-draco ou un Togekiss qui régénère constamment.
 
 > **UU (UnderUsed)** est le tier où certains Pokémon trop puissants sont bannis, permettant à d'autres Pokémon moins puissants d'être utilisés, ce format est plus créatif et varié. 
 {.is-success}
