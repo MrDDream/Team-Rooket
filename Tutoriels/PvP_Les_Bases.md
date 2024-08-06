@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T12:50:31.409Z
+date: 2024-08-06T13:04:09.052Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -115,20 +115,29 @@ Exemples de Spiker : **Airmure** / **Crustabri** / **Foretress**
 Exemples de Spinner : **Kaorine** / **Staross** / **Crustabri**
 ![kaorine.gif](/images/tutoriels/kaorine.gif) ![staross.gif](/images/tutoriels/staross.gif) ![crustabri.gif](/images/tutoriels/crustabri.gif)
 
-### HAZER / PSEUDO-HAZER
+> Le **Hazer** ***(HAZER)*** Un Hazer est un Pokémon qui utilise l'attaque Haze (en français : Buée noire). Cette attaque annule tous les boosts (ou malus) de stats en cours, par exemple danse-lames, l'effet d'une baie ou de la capacité intimidation (-1 attaque).  
+Le **Pseudo-Hazer** ***(PSEUDO-HAZER)*** utilise l'attaque hurlement ou encore cyclone, le principe est le même : annuler les boosts de l'adversaire en forçant le changement de Pokemon
+{.is-success}
 
-Le Hazer annule les boosts avec Haze, tandis que le Pseudo-Hazer utilise Hurlement pour forcer le switch.
+Exemples de Hazer : **Smogogo** / **Aquali** / **Teraclope**
+![smogogo.gif](/images/tutoriels/smogogo.gif) ![aquali.gif](/images/tutoriels/aquali.gif) ![teraclope.gif](/images/tutoriels/teraclope.gif)
 
-### CLERIC / HEAL BELLER
+Exemples de Pseudo-Hazer : **Aimure** / **Aquali**
+![airmure.gif](/images/tutoriels/airmure.gif) ![aquali.gif](/images/tutoriels/aquali.gif)
 
-Les Clerics utilisent des techniques pour guérir les statuts de l'équipe, comme Voeu ou Aromatherapy. Leveinard est le plus connu dans ce rôle.
+> Les **Clerics** ***(CLERIC / HEAL BELLER)*** utilisent des techniques pour guérir les statuts de l'équipe, comme Voeu ou Aromatherapy, cette attaque supprime tous les statuts de votre équipe entière, de quoi vous soigner des toxic, cage-éclair, feu follet, sommeil et même gel. 
+{.is-success}
 
-Pour une première équipe, visez au minimum les rôles suivants :
-- 1 Mur Spécial
-- 1 Mur Physique
-- 1 Sweeper Physique
-- 1 Sweeper Spécial
-- 1 Hazer/Pseudo-Hazer
+Votre meilleur ami dans ce rôle : **Leveinard**
+![leveinard.gif](/images/tutoriels/leveinard.gif)
+
+> Pour une première équipe, visez au minimum les rôles suivants :
+ 1 Mur Spécial
+ 1 Mur Physique
+ 1 Sweeper Physique
+ 1 Sweeper Spécial
+ 1 Hazer/Pseudo-Hazer
+{.is-info}
 
 ## 5) Construire son équipe compétitive : Synergie des types
 
