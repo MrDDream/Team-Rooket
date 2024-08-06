@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:50:37.674Z
+date: 2024-08-06T13:52:24.050Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -149,12 +149,12 @@ Maintenant que nous avons en tête les principaux rôles, il est nécessaire de 
 *Prenons cette équipe :*
 * Staross
 * Dracolosse
-* Ptera
+* Minotaupe
 * Chapignon
-* Leuphorie
+* Leveinard
 * Airmure
 
-Trois Pokémon de cette équipe sont sensible à l'électricité (Staross, Ptera et Airmure).
+Trois Pokémon de cette équipe sont sensible à l'électricité (Staross, Minotaupe et Airmure).
 
 Ce qui risque d'ouvrir une brèche à Voltali (très courant). Dans cette équipe on remplacera par exemple Ptera par Ossatueur afin de réduire la faiblesse à l'électricité de l'équipe et d'avoir même un contre efficace qui lui y sera théoriquement insensible.
 
@@ -167,8 +167,9 @@ Dans l'idéal cette synergie doit se refléter au niveau des attaques et de la d
 Parfois vous allez attribuer des attaques particulières pour pouvoir contrer de manière plus ciblée un Pokémon qui cause du tort à votre équipe ou encore influer sur les EVs pour rendre certains membres de votre équipe plus rapide ou plus résistant à certains coups. 
 
 De même dans une équipe qui a pour stratégie d'utiliser beaucoup l'attaque "picots" il ne faut pas hésiter à utiliser des attaques qui forcent à switcher comme vampigraine, requiem ou hurlement.
+Ou un anti Spinner (type spectre) pour éviter de se prendre un tour rapide.
 
- A vous de tester pour "**roder**" votre équipe !
+A vous de tester pour "**roder**" votre équipe !
 
 ## 6) Check et contres
 
