@@ -2,26 +2,14 @@
 title: #003 Florizarre (Venusar)
 description: 
 published: true
-date: 2024-07-10T17:05:03.023Z
+date: 2024-08-06T09:29:25.688Z
 tags: florizarre, venusar
 editor: markdown
 dateCreated: 2024-07-10T15:05:19.349Z
 ---
 
 # #003 Florizarre (Venusar)
-![003_florizarre_venusaur.png](/images/fiches_strat/premiere_gen/003_florizarre_venusaur.png =540x)
-
-![plante.png](/images/fiches_strat/img_types/plante.png) ![poison.png](/images/fiches_strat/img_types/poison.png)
-
-
-|      Statistiques      	||     	
-|:----------------------:	|:---:	|
-| PV (HP)                	| 80  	|  
-| Attaque (ATK)          	| 82  	|	
-| Défense (DEF)          	| 83  	|
-| Attaque Spéciale (SpA) 	| 100 	|
-| Défense Spéciale (SpD) 	| 100 	|
-| Vitesse (VIT)          	| 80  	|
+![003_florizarre_venusar.png](/images/fiches_strat/premiere_gen/003_florizarre_venusar.png)
 
 # Set de la communauté :
 ## Par Bradwin :
