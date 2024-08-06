@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:29:28.063Z
+date: 2024-08-06T13:33:47.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -22,13 +22,13 @@ N'oubliez pas que l'objectif principal du PvP est de s'amuser !
 
 ## 1) Construire son équipe
 
-Premièrement, il faut choisir son « Tiers » et s'y tenir. Il existe 3 tiers : OU, UU et NU. La plupart des matchs se déroulent en OU, où presque tous les Pokémon peuvent être utilisés. Les plus forts sont donc souvent joués, tels que :
+Premièrement, il faut choisir son «**Tiers**» et s'y tenir. Il existe 3 tiers : OU, UU et NU. La plupart des matchs se déroulent en OU, où presque tous les Pokémon peuvent être utilisés. Les plus forts sont donc souvent joués, tels que :
 
  **Ectoplasma** / **Leuphorie** / **Betochef**
  ![ectoplasma.gif](/images/tutoriels/ectoplasma.gif) ![leuphorie.gif](/images/tutoriels/leuphorie.gif) ![bétochef.gif](/images/tutoriels/bétochef.gif)
  
 
-De nombreux Pokémon sont trop faibles pour affronter ces monstres et ne peuvent être utilisés que dans des tiers inférieurs (par exemple, Papilusion ne peut jouer qu’en tournoi UU ou NU).
+De nombreux Pokémon sont trop faibles pour affronter ces monstres et ne "rentable" que dans des tiers inférieurs (par exemple, Papilusion ne peut jouer qu’en tournoi UU ou NU).
 
 Renseignez-vous sur la liste des Pokémon réservés au OU et choisissez les membres de votre future équipe dans cette liste. Les Pokémon des tiers inférieurs peuvent aussi donner de très bons résultats.
 
@@ -38,7 +38,7 @@ Renseignez-vous sur la liste des Pokémon réservés au OU et choisissez les mem
 Il serait donc inégal de les faire combattre contre des Pokémon, certes sympathiques, mais ayant des stats basses.
 {.is-info}
 
-> **OU (OverUsed)** est le format le plus courant, où tous les Pokémon sont autorisés (sauf les Légendaires)? 
+> **OU (OverUsed)** est le format le plus courant, où tous les Pokémon sont autorisés.
 {.is-success}
 
 Les plus puissants ici sont souvent :
