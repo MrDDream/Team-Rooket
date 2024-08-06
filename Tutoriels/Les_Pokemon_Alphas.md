@@ -2,7 +2,7 @@
 title: Les Pokémons Alphas
 description: 
 published: true
-date: 2024-08-06T14:48:51.415Z
+date: 2024-08-06T15:13:58.846Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T14:45:40.965Z
@@ -32,13 +32,13 @@ Les Pokémons Alpha sont des Boss qui apparaissent aléatoirement une fois par j
 * Les Pokémons Alpha ont un Sprite plus gros lorsqu'ils sont en compagnons.
 * Ils ont une aura rouge.
 * Ils ont également les **Talents Cachés**.
-* Ils possèdent des **IVx31** (au moins un).
+* Ils possèdent des **IVx31** (au moins deux).
 
 ## Astuces en combat :
 
 * Les **Chrono Balls** sont très efficace ***à partir du tour 11***.
 * Si la Pokéball rate, le boss va se booster dans toutes ses stats (sauf la précision).
-* Une stratégie consiste à utiliser **Tourmagik** et à donner au boss un objet choix qui le bloquera sur une seule attaque.
+* Une stratégie consiste à utiliser **Tourmagik** et à donner au boss un objet choix qui le bloquera sur une seule attaque ou **Spinda** avec la capacité **Echange** et le talent **Contestation**.
 
 > Si vous repérez un Alpha n'hésitez pas à le partager aux membres de la Team (vous pouvez ping le rôle **@Alpha Alerte !!!** sur notre Discord).
 {.is-info}
