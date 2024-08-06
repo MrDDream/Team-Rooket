@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:55:28.271Z
+date: 2024-08-06T14:25:23.677Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -117,7 +117,7 @@ Exemples de Spinner : **Kaorine** / **Staross** / **Crustabri** / **Minotaupe** 
 ![kaorine.gif](/images/tutoriels/kaorine.gif) ![staross.gif](/images/tutoriels/staross.gif) ![crustabri.gif](/images/tutoriels/crustabri.gif) ![minotaupe.gif](/images/tutoriels/minotaupe.gif) ![tentacruel.gif](/images/tutoriels/tentacruel.gif)
 
 > Le **Hazer** ***(HAZER)*** Un Hazer est un Pokémon qui utilise l'attaque Haze (en français : Buée noire). Cette attaque annule tous les boosts (ou malus) de stats en cours, par exemple danse-lames, l'effet d'une baie ou de la capacité intimidation (-1 attaque).  
-Le **Pseudo-Hazer** ***(ou PHAZER)*** utilise l'attaque hurlement ou encore cyclone, le principe est le même : annuler les boosts de l'adversaire en forçant le changement de Pokemon
+Le **Pseudo-Hazer** ***(ou PHAZER)*** utilise l'attaque hurlement,cyclone ou encore draco-queue, le principe est le même : annuler les boosts de l'adversaire en forçant le changement de Pokemon
 {.is-success}
 
 Exemples de Hazer : **Smogogo** / **Aquali** / **Teraclope** / **Tutenkafer**
@@ -149,14 +149,14 @@ Maintenant que nous avons en tête les principaux rôles, il est nécessaire de 
 *Prenons cette équipe :*
 * Staross
 * Dracolosse
-* Minotaupe
+* Ptéra
 * Chapignon
 * Leveinard
 * Airmure
 
-Trois Pokémon de cette équipe sont sensible à l'électricité (Staross, Minotaupe et Airmure).
+Trois Pokémon de cette équipe sont sensible à l'électricité (Staross, Ptéra et Airmure).
 
-Ce qui risque d'ouvrir une brèche à Voltali (très courant). Dans cette équipe on remplacera par exemple Ptera par Ossatueur afin de réduire la faiblesse à l'électricité de l'équipe et d'avoir même un contre efficace qui lui y sera théoriquement insensible.
+Ce qui risque d'ouvrir une brèche à Voltali. Dans cette équipe on remplacera par exemple Ptera par Ossatueur afin de réduire la faiblesse à l'électricité de l'équipe et d'avoir même un contre efficace qui lui y sera théoriquement insensible.
 
 >L'idéal est que les faiblesses des Pokémon de votre équipe soient compensées par les résistances d'autres. Par exemple, Léviator et Magnézone se complètent bien. Léviator a pour seule faiblesse les attaques électrique ou roche qui sont neutralisées par Magnezone, tandis que Magnezone est faible aux attaques combat et feu qui elles sont peu efficaces sur Leviator.
 {.is-info}
