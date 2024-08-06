@@ -2,7 +2,7 @@
 title: #003 Florizarre (Venusar)
 description: 
 published: true
-date: 2024-08-06T09:29:25.688Z
+date: 2024-08-06T10:26:38.081Z
 tags: florizarre, venusar
 editor: markdown
 dateCreated: 2024-07-10T15:05:19.349Z
@@ -12,25 +12,8 @@ dateCreated: 2024-07-10T15:05:19.349Z
 ![003_florizarre_venusar.png](/images/fiches_strat/premiere_gen/003_florizarre_venusar.png)
 
 # Set de la communauté :
-## Par Bradwin :
 
-| IV                     	|    	|   	| EV                     	|     	|
-|------------------------	|----	|---	|------------------------	|-----	|
-| PV (HP)                	| 31 	|   	| PV (HP)                	| 6   	|
-| Attaque (ATK)          	| 0  	|   	| Attaque (ATK)          	| 0   	|
-| Défense (DEF)          	| 31 	|   	| Défense (DEF)          	| 0   	|
-| Attaque Spéciale (SpA) 	| 31 	|   	| Attaque Spéciale (SpA) 	| 252 	|
-| Défense Spéciale (SpD) 	| 31 	|   	| Défense Spéciale (SpD) 	| 0   	|
-| Vitesse (VIT)          	| 31 	|   	| Vitesse (VIT)          	| 252 	|
-
-
-|              	|                       	|    	|     **Attaques**    	|
-|-------------:	|-----------------------	|---	|:-------------------:	|
-| **Talent :** 	| Chlorophylle          	|   	| Croissance          	|
-| **Nature :** 	| Modeste *(Modest)*    	|   	| Giga-Sangsue        	|
-| **Objet :**  	| Orbe Vie *(Life Orb)* 	|   	| Puis.Cachée *(Feu)* 	|
-|              	|                       	|   	| Bomb-Beurk          	|
-
+![bradwin_florizarre.png](/images/test/bradwin_florizarre.png)
 > Ce set de Florizarre est utilisable au sein d’une team Soleil (Sun).
 {.is-info}
 
