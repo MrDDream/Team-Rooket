@@ -1,8 +1,8 @@
 ---
-title: Les Pokémons Alphas
+title: Les Pokémon Alphas
 description: 
 published: true
-date: 2024-08-06T15:13:58.846Z
+date: 2024-08-06T15:14:07.782Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T14:45:40.965Z
