@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T14:29:44.781Z
+date: 2024-08-06T14:50:27.822Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -184,3 +184,4 @@ Avec l'expérience, vous apprendrez à mieux connaître les interactions entre l
 
 ### Liens annexes :
 - [Sets communs utilisés pour les Pokémon OU actuels](https://forums.pokemmo.com/index.php?%2Ftopic%2F162835-ou-pvp-sample-sets-compendium%2F)
+- **Ping les barjos du PvP sur notre Discord** (**@Vapow** et/ou **@Pacofficiel**). 
