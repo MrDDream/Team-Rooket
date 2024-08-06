@@ -2,14 +2,15 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T14:25:23.677Z
+date: 2024-08-06T14:29:44.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
 ---
 
-# Introduction
+# PvP : Les Bases
 
+## Introduction
 > Vous avez terminé l'histoire du jeu et souhaitez créer une équipe pour devenir "**le meilleur dresseur**", mais vous ne savez pas comment faire ni quels Pokémon choisir. 
 Ce tuto vous aidera à clarifier des concepts tels que le vocabulaire des combats JcJ (PvP), les rôles des Pokémon, la création de Pokémon de compétition et l'obtention d'avantages en match.
 {.is-success}
