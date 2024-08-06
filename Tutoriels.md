@@ -2,7 +2,7 @@
 title: Tutoriels
 description: 
 published: true
-date: 2024-08-06T14:48:08.766Z
+date: 2024-08-06T15:28:52.508Z
 tags: tuto, tutoriels
 editor: markdown
 dateCreated: 2024-07-02T14:59:14.115Z
@@ -23,6 +23,7 @@ dateCreated: 2024-07-02T14:59:14.115Z
 
 ## En Jeu
 - [⏳ **Rematch Arène / Ligues**](https://team-rooket.fr/fr/Tutoriels/Rematch_Arene_Ligues)
+- [⌛ **Rematch Dresseurs**](https://team-rooket.fr/fr/Tutoriels/Rematch_Dresseurs)
 {.links-list}
 - [🐲 **Les Pokémon Légendaires**](https://team-rooket.fr/fr/Tutoriels/Pokemon_Legendaires)
 {.links-list}
