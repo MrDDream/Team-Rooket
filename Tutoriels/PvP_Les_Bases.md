@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:36:05.381Z
+date: 2024-08-06T13:37:16.067Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -75,7 +75,6 @@ Il s'agit des règles de PvP pour PokéMMO (et pour beaucoup de jeu de la licenc
 - **1HKO :** Interdiction d'utiliser des attaques mettant KO en un tour (ex : Guillotine, Abîme).
 - **Pristine :** Pokémon doivent être complètement soignés avant chaque duel.
 - **Species :** Interdiction d'utiliser 2 Pokémon portant le même numéro dans le Pokédex national.
-- **Hax Item :** Interdiction de certains objets comme Roche Royale et Vive Griffe.
 - **Time :** En dessous des demi-finales, si le match dure plus de 45 minutes, les deux joueurs sont disqualifiés.
 - **Evasion :** Interdiction d'augmenter votre esquive.
 - **Self-KO :** En cas de fin de duel 1v1, l'utilisation d'attaques comme Explosion entraînera la disqualification.
