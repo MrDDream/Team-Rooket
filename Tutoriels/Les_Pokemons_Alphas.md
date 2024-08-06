@@ -2,13 +2,13 @@
 title: Les Pokémons Alphas
 description: 
 published: true
-date: 2024-08-06T14:45:40.965Z
+date: 2024-08-06T14:46:26.762Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T14:45:40.965Z
 ---
 
-# Les Pokémons Alphas
+# Les Pokémon Alphas
 Les Pokémons Alpha sont des Boss qui apparaissent aléatoirement une fois par jour (en jeu) c’est à dire environ toutes les **6h**.
 
 ## Informations :
