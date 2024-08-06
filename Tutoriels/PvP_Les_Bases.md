@@ -2,7 +2,7 @@
 title: PvP : Les Bases
 description: 
 published: true
-date: 2024-08-06T13:43:53.380Z
+date: 2024-08-06T13:50:37.674Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T11:57:00.010Z
@@ -113,24 +113,24 @@ Exemples : **Ronflex** / **Aquali** / **Lokhlass**
 Exemples de Spiker : **Airmure** / **Noacier** / **Foretress**
 ![airmure.gif](/images/tutoriels/airmure.gif) ![noacier.gif](/images/tutoriels/noacier.gif) ![foretress.gif](/images/tutoriels/foretress.gif)
 
-Exemples de Spinner : **Kaorine** / **Staross** / **Crustabri**
-![kaorine.gif](/images/tutoriels/kaorine.gif) ![staross.gif](/images/tutoriels/staross.gif) ![crustabri.gif](/images/tutoriels/crustabri.gif)
+Exemples de Spinner : **Kaorine** / **Staross** / **Crustabri** / **Minotaupe** / **Tentacruel**
+![kaorine.gif](/images/tutoriels/kaorine.gif) ![staross.gif](/images/tutoriels/staross.gif) ![crustabri.gif](/images/tutoriels/crustabri.gif) ![minotaupe.gif](/images/tutoriels/minotaupe.gif) ![tentacruel.gif](/images/tutoriels/tentacruel.gif)
 
 > Le **Hazer** ***(HAZER)*** Un Hazer est un Pokémon qui utilise l'attaque Haze (en français : Buée noire). Cette attaque annule tous les boosts (ou malus) de stats en cours, par exemple danse-lames, l'effet d'une baie ou de la capacité intimidation (-1 attaque).  
-Le **Pseudo-Hazer** ***(PSEUDO-HAZER)*** utilise l'attaque hurlement ou encore cyclone, le principe est le même : annuler les boosts de l'adversaire en forçant le changement de Pokemon
+Le **Pseudo-Hazer** ***(ou PHAZER)*** utilise l'attaque hurlement ou encore cyclone, le principe est le même : annuler les boosts de l'adversaire en forçant le changement de Pokemon
 {.is-success}
 
-Exemples de Hazer : **Smogogo** / **Aquali** / **Teraclope**
-![smogogo.gif](/images/tutoriels/smogogo.gif) ![aquali.gif](/images/tutoriels/aquali.gif) ![teraclope.gif](/images/tutoriels/teraclope.gif)
+Exemples de Hazer : **Smogogo** / **Aquali** / **Teraclope** / **Tutenkafer**
+![smogogo.gif](/images/tutoriels/smogogo.gif) ![aquali.gif](/images/tutoriels/aquali.gif) ![teraclope.gif](/images/tutoriels/teraclope.gif) ![tutankafer.gif](/images/tutoriels/tutankafer.gif)
 
-Exemples de Pseudo-Hazer : **Aimure** / **Aquali**
-![airmure.gif](/images/tutoriels/airmure.gif) ![aquali.gif](/images/tutoriels/aquali.gif)
+Exemples de Pseudo-Hazer : **Aimure** / **Aquali** / **Hippodocus** / **Milobellus**
+![airmure.gif](/images/tutoriels/airmure.gif) ![aquali.gif](/images/tutoriels/aquali.gif) ![hippodocus.gif](/images/tutoriels/hippodocus.gif) ![milobellus.gif](/images/tutoriels/milobellus.gif)
 
 > Les **Clerics** ***(CLERIC / HEAL BELLER)*** utilisent des techniques pour guérir les statuts de l'équipe, comme Voeu ou Aromatherapy, cette attaque supprime tous les statuts de votre équipe entière, de quoi vous soigner des toxic, cage-éclair, feu follet, sommeil et même gel. 
 {.is-success}
 
-Votre meilleur ami dans ce rôle : **Leveinard**
-![leveinard.gif](/images/tutoriels/leveinard.gif)
+Vos meilleurs amis dans ce rôle : **Leveinard** / **Noctali**
+![leveinard.gif](/images/tutoriels/leveinard.gif) ![noctali.gif](/images/tutoriels/noctali.gif)
 
 > Pour une première équipe, visez au minimum les rôles suivants :
  **1** Mur Spécial
