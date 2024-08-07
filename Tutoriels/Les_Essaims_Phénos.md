@@ -2,7 +2,7 @@
 title: Les Essaims / Phénos
 description: 
 published: true
-date: 2024-08-07T10:17:20.380Z
+date: 2024-08-07T10:26:22.912Z
 tags: essaims, phénos, phenos
 editor: markdown
 dateCreated: 2024-08-07T10:17:20.380Z
@@ -36,8 +36,9 @@ Voici quelques Pokémons qui ne sont obtenables que via cette méthode :
 **Minotaupe** / **Mamanbo** / **Emolga**
 ![minotaupe.gif](/images/tutoriels/minotaupe.gif) ![mamambo.gif](/images/tutoriels/mamambo.gif) ![emolga.gif](/images/tutoriels/emolga.gif)
 
->
->
+*Voici à quoi ressemble les emplacements de Phénos IG :*
+![phenos.png](/images/tutoriels/phenos.png)
+
 > **Astuce :** Il est possible sur PokéMMO de mettre des alertes sonores, lorsqu'un texte spécifique apparaît sur le tchat, je vous invite donc à mettre les alertes pour le mot ***"pheno"*** et à vous mettre de la canal Global avec la langue anglaise d'activer, car les joueurs ce partagent l'information.
 {.is-info}
 
