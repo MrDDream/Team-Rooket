@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2024-07-02T13:56:04.068Z
+date: 2024-08-07T06:56:02.472Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T12:41:07.722Z
@@ -21,7 +21,7 @@ La plupart de nos événements se déroulent à Kanto, donc nous vous encourageo
 {.is-success}
 
 
-> Pour financer ces événements, nous acceptons les donations de Pokedollars, de Pokémons et d’objets, qui seront utilisés comme récompenses.
+> **Pour financer ces événements, nous acceptons les donations de Pokedollars, de Pokémons et d’objets, qui seront utilisés comme récompenses.**
 {.is-info}
 
 > **Notre serveur Discord est également ouvert aux non-membres.**
@@ -30,7 +30,7 @@ La plupart de nos événements se déroulent à Kanto, donc nous vous encourageo
 # PokéMMO, c’est quoi ?
 > **PokéMMO** est un MMORPG basé sur les jeux de la licence Pokémon allant de la version Rouge Feu / Vert Feuille (GBA) à la version Noir / Blanche (DS).
 > 
-> Il vous permet de revivre les histoires de Kanto / Johto / Hoenn / Sinnoh / Unys et tout cela en compagnie de camarade !
+> Il vous permet de revivre les histoires de **Kanto / Johto / Hoenn / Sinnoh / Unys** et tout cela en compagnie de camarades !
 {.is-success}
 
 
