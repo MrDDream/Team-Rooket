@@ -2,7 +2,7 @@
 title: Tutoriels
 description: 
 published: true
-date: 2024-08-06T15:28:52.508Z
+date: 2024-08-07T10:28:06.412Z
 tags: tuto, tutoriels
 editor: markdown
 dateCreated: 2024-07-02T14:59:14.115Z
@@ -29,5 +29,6 @@ dateCreated: 2024-07-02T14:59:14.115Z
 {.links-list}
 - [⚔️ **PvP : Les Bases**](https://team-rooket.fr/fr/Tutoriels/PvP_Les_Bases)
 - [🅰️ **Les Pokémon Alphas**](https://team-rooket.fr/fr/Tutoriels/Les_Pokemon_Alphas)
+- [🐝 **Les Essaims / Phénos**](https://team-rooket.fr/fr/Tutoriels/Les_Essaims_Phenos)
 
 
