@@ -2,7 +2,7 @@
 title: Les Essaims / Phénos
 description: 
 published: true
-date: 2024-08-07T10:27:32.355Z
+date: 2024-08-07T10:58:07.671Z
 tags: essaims, phénos, phenos
 editor: markdown
 dateCreated: 2024-08-07T10:17:20.380Z
@@ -46,5 +46,5 @@ Voici quelques Pokémons qui ne sont obtenables que via cette méthode :
 {.is-info}
 
 ### Liens annexes :
-- [Vidéo de Méduse sur les Essaims & Phénos [FR]](https://youtu.be/SJL1_SW2BEk)
+- [Vidéo de Médusane sur les Essaims & Phénos [FR]](https://youtu.be/SJL1_SW2BEk)
 - [Article Forum PokéMMO sur les localisations des Phénos [EN]](https://forums.pokemmo.com/index.php?/topic/77087-phenomenon-locations-guide/)
