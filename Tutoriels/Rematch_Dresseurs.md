@@ -2,7 +2,7 @@
 title: Rematch Dresseurs
 description: 
 published: true
-date: 2024-08-07T07:26:31.419Z
+date: 2024-08-07T07:28:18.651Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T15:28:04.456Z
@@ -56,4 +56,5 @@ Pour calculer le total sans pièce rune retirez un tier du total *(mais pas de J
 ### Liens annexes :
 * [Vidéo de Médusane (DarDarkBinks) [FR]](https://youtu.be/3l-kNXTx0A4)
 * [Google Sheet partagé par @Yilliade [EN]](https://docs.google.com/spreadsheets/d/1Gqx3muazV00THjSUDo1E1xHu3bFWArITvXMQqs3PGJU/edit#gid=0)
+* [Lien Forum "1 Hour Trainer Rerun Guide" [EN]](https://forums.pokemmo.com/index.php?/topic/148798-1-hour-trainer-rerun-guide/#comment-1924277)
 
