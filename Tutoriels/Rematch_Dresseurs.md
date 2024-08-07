@@ -2,7 +2,7 @@
 title: Rematch Dresseurs
 description: 
 published: true
-date: 2024-08-06T15:28:04.456Z
+date: 2024-08-07T07:26:31.419Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T15:28:04.456Z
@@ -42,10 +42,11 @@ Je vous conseille de commencer par ***Unys***, **Morimoto** et **Cynthia** en pr
 
 ## **Kanto :**
 **Route 11 : Les 4 Croupiers**
+![route11_kanto_01.webp](/images/tutoriels/route11_kanto_01.webp =500x) ![route11_kanto_02.webp](/images/tutoriels/route11_kanto_02.webp =500x) ![route11_kanto_03.webp](/images/tutoriels/route11_kanto_03.webp =500x) ![route11_kanto_04.webp](/images/tutoriels/route11_kanto_04.webp =500x)
 **Route 8 : Les 2 Croupiers**
-![route8_kanto.png](/images/tutoriels/route8_kanto.png =500x)
+![route8_kanto_01.webp](/images/tutoriels/route8_kanto_01.webp =500x) ![route8_kanto_02.webp](/images/tutoriels/route8_kanto_02.webp =500x)
 **Route 14 & 15 : Les 4 Canons**
-![route15_kanto.png](/images/tutoriels/route15_kanto.png =500x)
+![route14_kanto.webp](/images/tutoriels/route14_kanto.webp =500x) ![route15_kanto.webp](/images/tutoriels/route15_kanto.webp =500x)
 **Total :** 44k
 
 >Total du run **113k** sans Cynthia, **133k** avec, facile à faire en **1h** *(+16 Jackpots : 7k environ)*.
