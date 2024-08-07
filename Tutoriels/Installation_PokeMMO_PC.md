@@ -2,7 +2,7 @@
 title: Installation PokéMMO sur PC
 description: 
 published: true
-date: 2024-07-03T08:10:58.514Z
+date: 2024-08-07T11:28:12.803Z
 tags: installation, pc
 editor: markdown
 dateCreated: 2024-07-02T14:50:46.443Z
@@ -21,11 +21,11 @@ Pour trouver des roms, tapez dans Google "Rom Pokémon *la version* FR", vous de
 
 _Il vous faudra les versions suivantes :_
 
-* **Rouge Feu**
-* **Emeraude**
-* **Platine**
-* **Coeur d'Or** *(Heartgold)*
-* **Noir ou Blanc** *(premier du nom)*
+* **Rouge Feu** (.gba)
+* **Emeraude** (.gba)
+* **Platine** (.nds)
+* **Coeur d'Or** *(Heartgold)* (.nds)
+* **Noir ou Blanc** *(premier du nom)* (.nds)
 
 ## 3) Ajout des ROMs
 
