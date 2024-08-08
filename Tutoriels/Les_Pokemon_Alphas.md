@@ -2,7 +2,7 @@
 title: Les Pokémon Alphas
 description: 
 published: true
-date: 2024-08-06T15:14:07.782Z
+date: 2024-08-08T07:26:52.159Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T14:45:40.965Z
@@ -15,7 +15,7 @@ Les Pokémons Alpha sont des Boss qui apparaissent aléatoirement une fois par j
 
 * Ils apparaissent avec le logo ![alpha.webp](/images/tutoriels/alpha.webp) sur votre carte.
 * Ils **reviendront tous**, donc ne paniquez pas si vous en manquez.
-* Ils restent une **1h15**, si vous fuyez le combat il y a une pénalité de 2min, si vous  perdez le combat vous pouvez réessayer.
+* Ils restent une **1h15**, si vous fuyez le combat il y a une **pénalité de 2min**, si vous  perdez le combat vous pouvez réessayer.
 * Les boss sont immunisés à **Effort**.
 
 >**Astuce :** Si vous voulez découvrir les Alpha sur votre carte sans le capturer, vous pouvez capturer les petit pokemon essaim autour de l'Alpha pour débloquer le Vus du gros Alpha dans votre carte du monde
