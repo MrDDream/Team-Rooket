@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2024-08-07T06:56:02.472Z
+date: 2024-10-19T07:17:40.014Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T12:41:07.722Z
@@ -40,7 +40,7 @@ La plupart de nos événements se déroulent à Kanto, donc nous vous encourageo
 {.is-info}
 
 ## Nos Liens :
-* **[Discord](https://discord.gg/wNKWXRkGgD)**
+* **[Discord](https://discord.gg/p8TNeWMjvb)**
 * **[Club PokéMMO](https://forums.pokemmo.com/index.php?/clubs/212-tr%C3%B8k-team-rooket/)**
 * **[Twitter](https://twitter.com/TeamRooket)**
 
